@@ -8,6 +8,8 @@ I just enjoy working with it. It makes life so easy with SPA and two way binding
 ###1. Try creating your directory structure based on features within your application.
 
 Folder Structure
+![alt text](https://github.com/Nasruddin/a-better-angular-app/blob/master/folder-structure.png "Folder Structure")
+
 Above structure can help you accessing your component in a better way and will make your life much easier as the project component grows.
 
 ###2. Making Modules Local as opposed to making it global. 
