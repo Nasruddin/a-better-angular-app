@@ -1,6 +1,6 @@
 # a-better-angular-app
 
-####Migrating old blog from wordpress(https://goo.gl/BF65e9 ) to Github
+####Migrating old blog from wordpress(https://goo.gl/BF65e9) published on FEBRUARY 23, 2015 to Github
 Let’s make our angular application a better application.
 
 Before starting I must mention, Angular is the best technology happen to me after mighty Java. 
